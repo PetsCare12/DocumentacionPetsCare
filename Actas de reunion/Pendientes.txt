@@ -3,7 +3,7 @@ acta de reunion de la 1 a la 10 corregir la cabezera el logo y firmas al final d
 acta de reunion 7, 8, 9, 10 falta el nombre de juan david marin
 
 actas pendientes: 
-1: 4/07/2022
+1: 4/07/2022 listo
 2: 11/07/2022
 3: 18/07/2022
 4: 25/07/2022
